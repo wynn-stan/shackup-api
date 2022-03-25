@@ -1,0 +1,66 @@
+{
+    "events":{
+        "gdsc_challenge": {
+            "name": "GDSC Solution Challenge",
+            "categories": ["competition"],
+            "tags": [
+                    "gdsc", "competition", "UN-SDGs"
+                ],
+            "description": ["We invite students around the world to join the Google Developer Student Clubs 2022 Solution Challenge! Solve for one of the United Nations' Sustainable Development Goals using Google technologies.",
+                    "This year, see how you can use Android, Firebase, TensorFlow, Google Cloud, Flutter, or any of your favorite Google technologies to promote employment for all, economic growth, and climate action, by building a solution for one or more of the UN Sustainable Development Goals."],
+            "join_info": ["There are four main steps to joining the Solution Challenge and getting started on your project:",
+                            "1 - Register at goo.gle/solutionchallenge and join a Google Developer Student Club at your college or university. If there is no club at your university, you can join the closest one through the event platform.",
+                            "2 - Select one or more of the United Nations 17 Sustainable Development Goals to solve for.",
+                            "3 - Build a solution using Google technology.",
+                            "4 - Create a demo and submit your project by March 31, 2022"
+                ],
+            "deadline": "Mar 31 2022"
+        }
+    },
+    "clubs":{
+        "knust_volleyball": {
+            "name": "KNUST Volleyball Team",
+            "categories": ["Sports"],
+            "tags": [
+                "Sports", "Volleyball"
+            ],
+            "description": "",
+            "join_info": [
+                            "Training Sessions",
+                            "  Monday - Friday: 3:30pm",
+                            "  Saturdays: 6:30am",
+                            "<br>",
+                            "For more info, Contact 0200097072"
+                        ]
+        },
+        "gdsc": {
+            "name": "Google Developer Student Club",
+            "categories": ["Engineering-Technology"],
+            "tags": [
+                    "Technology", "Google", "Engineering"
+                ],
+            "description": ["Developer Student Clubs (DSC) is a Google Developers program for university students to learn mobile and web development skills , design thinking skills and leadership skills", "It is open to any student, ranging from novice developers who are just starting to advanced developers who want to further improve their skills. it also encourages them to make use of the acquired skill sets to solve local business problems around their institution. It is designed to help them build job-ready skills, making them further employable in the future. "],
+            "join_info": ["Register using the link: ","https://docs.google.com/forms/d/e/1FAIpQLScUr2rZ2vpGDOfz6moR4I3Y3NTJ5ncTyJL6utuK7rE-KRf6Kw/viewform?usp=sf_link"]
+        },
+        "kds": {
+            "name":"KNUST Debate Society",
+            "categories":[],
+            "tags": ["Debate", "Public Speaking"],
+            "description":["In just 9 years of existence, the KDS has won the Pan-African Universities Debate Championship 3 times and the Ghana National Universities Debating Championship 4 times. This feat comes as a result of months of commitment and excellence to.",
+                           "In joining the society you will be exposed to outer learning experiences, gain insight on world issues, build your confidence and public speaking skills and learn to accentuate and voice your opinions."
+                ],
+            "join_info": ["Register using the link: ","https://bit.ly/3nPwK0B"]
+
+        },
+        "enactus": {
+            "name": "Enactus KNUST",
+            "categories": [],
+            "tags": [
+                "Business", "Entrepreneurship"
+            ],
+            "description": ["Are you passionate about impact and would love to join a community of students?","This is the opportunity to join Enactus-KNUST. At Enactus-KNUST we prepare you to win for your stay in KNUST and beyond"],
+            "join_info": ["Register using the link: ","https://bit.ly/3ABND4b"]
+        }
+    }
+}
+
