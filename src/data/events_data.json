@@ -1,0 +1,108 @@
+{
+    "gdsc_challenge":{
+        "deadline":"Mar 31 2022",
+        "categories":["competition"],
+        "profile_container_props":{
+            "image_container_props":{
+                "image_props":{
+                    "attributes":{
+                        "src":"/public/img/gdsc_challenge.png",
+                        "alt":"event-image",
+                        "className":"img-thumbnail"
+                    }
+                }
+            },
+            "profile_description_container_props":{
+                "profile_header_props":{
+                    "text":"GDSC Solution Challenge"
+                },
+                "tags_props":[
+                    "gdsc", "competition", "UN-SDGs"
+                ],
+                "profile_description_text_props":{
+                    "texts_props":["We invite students around the world to join the Google Developer Student Clubs 2022 Solution Challenge! Solve for one of the United Nations' Sustainable Development Goals using Google technologies.",
+                    "This year, see how you can use Android, Firebase, TensorFlow, Google Cloud, Flutter, or any of your favorite Google technologies to promote employment for all, economic growth, and climate action, by building a solution for one or more of the UN Sustainable Development Goals."]
+                },
+                "join_button_props":{
+                    "element_type":"button",
+                    "attributes":{
+                        "className":"btn btn-success px-5",
+                        "type":"button",
+                        "data-toggle":"collapse",
+                        "data-target":"#join-gdsc_challenge",
+                        "aria-expanded":"false",
+                        "aria-controls":"join-gdsc_challenge"
+                    },
+                    "button_text":"Join"
+                },
+                "card_collapse_container_props":{
+                    "element_type":"div",
+                    "attributes":{
+                        "id":"join-gdsc_challenge"
+                    },
+                    "card_body_props":{
+                        "element_type":"div",
+                        "attributes":{
+                            "className":"card card-body "
+                        },
+                        "texts_props":["There are four main steps to joining the Solution Challenge and getting started on your project:","<br>",
+                            "1 - Register at goo.gle/solutionchallenge and join a Google Developer Student Club at your college or university. If there is no club at your university, you can join the closest one through the event platform.","<br>",
+                            "2 - Select one or more of the United Nations 17 Sustainable Development Goals to solve for.","<br>",
+                            "3 - Build a solution using Google technology.","<br>",
+                            "4 - Create a demo and submit your project by March 31, 2022"]
+                    }
+                }
+            }
+        }
+    }, "cybergirls 2.0":{
+        "deadline":"",
+        "categories":[],
+        "profile_container_props":{
+            "image_container_props":{
+                "image_props":{
+                    "attributes":{
+                        "src":"/public/img/cybergirls-1.jpg",
+                        "alt":"event-image",
+                        "className":"img-thumbnail"
+                    }
+                }
+            },
+            "profile_description_container_props":{
+                "profile_header_props":{
+                    "text":"CyberGirls 2.0"
+                },
+                "tags_props":[
+                    "cyber-security", "women"
+                ],
+                "profile_description_text_props":{
+                    "texts_props":["Are you a female between the ages of 18 and 28?","Are you interested in developing skills in the field of cybersecurity?","Applications are open to girls and women living in Nigeria, Ghana, Rwanda, Egypt, Zambia and South Africa"]
+                },
+                "join_button_props":{
+                    "element_type":"button",
+                    "attributes":{
+                        "className":"btn btn-success px-5",
+                        "type":"button",
+                        "data-toggle":"collapse",
+                        "data-target":"#join-cybergirls",
+                        "aria-expanded":"false",
+                        "aria-controls":"join-cybergirls"
+                    },
+                    "button_text":"Join"
+                },
+                "card_collapse_container_props":{
+                    "element_type":"div",
+                    "attributes":{
+                        "id":"join-cybergirls"
+                    },
+                    "card_body_props":{
+                        "element_type":"div",
+                        "attributes":{
+                            "className":"card card-body "
+                        },
+                        "texts_props":["Register using the link: ","<a>https://bit.ly/CyberGirls2022SignUp"]
+                    }
+                }
+            }
+        }
+}
+}
