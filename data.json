@@ -2,6 +2,7 @@
     "events":{
         "gdsc_challenge": {
             "name": "GDSC Solution Challenge",
+            "host":"",
             "categories": ["competition"],
             "tags": [
                     "gdsc", "competition", "UN-SDGs"
@@ -15,6 +16,78 @@
                             "4 - Create a demo and submit your project by March 31, 2022"
                 ],
             "deadline": "Mar 31 2022"
+        },
+        "word_encounter": {
+            "name": "Word Encounter",
+            "host": ["Anagkazo Assemblies, Fountain Of Life Cathedral"],
+            "categories":["Religious","Info Seminar"],
+            "tags":[],
+            "description":"",
+            "join_info":["Date: Sunday, 27th March 2022","Time: 10:00am","Venue: Fountain Of Life Cathedral, Ayeduase. Behind the Benab Filling Stations"],
+            "deadline":"Mar 27 2022"
+        },
+        "pharm_aerobics":{
+            "name":"PHARM AEROBICS",
+            "hosts":["Ghana Pharmaceuticals Student's Association", "Ghana Herbal Medical Student's Association"],
+            "categories":["Sports","Health"],
+            "tags":[],
+            "description":["Main activities: aerboics session, pharmacy strongest, tug of war.","Side attraction: oware, card games, dance competition, ampe, hopscotch "],
+            "join_info":["Date: Saturday, 26th March 2022","Time: 6:30am","Venue: Car Park, close to dispensing","Free To All"],
+            "deadline":"Mar 26 2022"
+        },
+        "power_to_lay_down":{
+            "name":"Poser to lay down",
+            "hosts":["ROSA KNUST"],
+            "categories":["Religious","Info Seminar"],
+            "tags":[],
+            "description":"",
+            "join_info":["Date: Sunday, 27th March 2022", "Time: 10:30am", "Venue: Great Hall Foyer"],
+            "deadline":"Mar 27 2022"
+        },
+        "ag_campus_invasion":{
+            "name":"Breakfast Meeting: Supernatural Encounter",
+            "hosts":["Assemblies of God - Holy Hill Chapel", "Success Breakthrough Seminar", "Kwadwo Bempah Ministries"],
+            "categories":["Religious","Info Seminar"],
+            "tags":[],
+            "description":"",
+            "join_info":["Date: Saturday, 2nd April 2022","Time: 9:00am","Venue: Great Hall"],
+            "deadline":""
+        },
+        "fit_for_life":{
+            "name":"FIT FOR LIFE",
+            "hosts":["Science Student's Association Senate"],
+            "categories":["Sports","Health"],
+            "tags":[],
+            "description":["Aerobics with the scisa senate.","Side Attracton: Breakfast Session"],
+            "join_info":["Date: Saturday, 26th March 2022","Time: 6:00am","Venue: Chemistry Block Foyer","Free For All"],
+            "deadline":"Mar 26 2022"
+        },
+        "explo@50":{
+            "name":"EXPLO @50",
+            "hosts":["Gospel Explosion Of IHCF, KNUST"],
+            "categories":["Info Seminar","Religious","Music","Entertainment"],
+            "tags":[],
+            "description":"Theme: The Celebration Service, A Heart Of Gratitude",
+            "join_info":["Date: Friday, 25th March  2022","Time: 5:30pm","Venue: Republic Hall Dining Hall","Free For All"],
+            "deadline":"Mar 25 2022"
+        },
+        "beautiful_minds":{
+            "name":"Beautiful Minds: Break The Bias",
+            "hosts":["SRC/NUGS Women's Commision"],
+            "categories":["Info Seminar","Health"],
+            "tags":[],
+            "description":"Theme: Break The Bias",
+            "join_info":["Date: Saturday, 26th March 2022","Time: 12:00pm","Venue: College Of Engineering, Kumapley Auditorium","Free For All"],
+            "deadline":"Mar 26 2022"
+        },
+        "alias":{
+            "name":"",
+            "hosts":[],
+            "categories":[],
+            "tags":[],
+            "description":"",
+            "join_info":"",
+            "deadline":""
         }
     },
     "clubs":{
